@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RegEx.iml" filepath="$PROJECT_DIR$/RegEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VowelFinderRegEx.iml" filepath="$PROJECT_DIR$/VowelFinderRegEx.iml" />
     </modules>
   </component>
 </project>
